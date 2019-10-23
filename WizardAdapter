@@ -1,0 +1,8 @@
+public class WizardAdapter implements Warrior {
+	private Wizard wizard;
+	
+	public TurkeyAdapter(Wizard wizard) {
+		this.wizard = wizard;
+	}
+	
+}
