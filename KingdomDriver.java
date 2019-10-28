@@ -1,4 +1,3 @@
-
 public class KingdomDriver {
 
 	public static void main(String[] args) {
